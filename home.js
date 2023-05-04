@@ -2,9 +2,9 @@ function Home(){
   return (
     <Card
       txtcolor="black"
-      header="BadBank Landing Module"
-      title="Welcome to the bank"
-      text="You can move around using the navigation bar."
+      header=""
+      title="Leaky Bucket Bank"
+      text="Who needs security when you have a bank that's always pouring money out?"
       body={(<img src="bank.png" className="img-fluid" alt="Responsive image"/>)}
     />    
   );  
